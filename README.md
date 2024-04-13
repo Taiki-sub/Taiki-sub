@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Taiki-sub/Taiki-sub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiki-sub
-)](https://github.com/anuraghazra/github-readme-stats)
+# <div>Languages and skills</div>
+<div style="display: inline-block;">
+<img src="https://skillicons.dev/icons?i=flutter,java,swift,next,react,laravel,py,js,php,html,css)"/>
+</div>
+
+# <div>Analytics</div>
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Taiki-sub&theme=blueberry&show_icons=true&hide_border=true" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyphen-o&theme=blueberry" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taiki-sub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
